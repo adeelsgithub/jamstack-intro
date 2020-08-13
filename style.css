@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+}
+
+ul li {
+    padding: 10px;
+}
+
+body{
+    color:#000;
+    margin: 0 auto;
+    max-width: 1400px;
+    width: 80%;
+    background-color: #fff;
+    text-align: center;
+}
+
+h1,h2{
+    margin: 10px 0px;
+}
